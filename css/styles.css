@@ -1,0 +1,89 @@
+body {
+  overflow-x: hidden;
+  background: rgba(115, 113, 108, 0.1);
+}
+
+.navbar {
+  background: rgba(115, 113, 108, 0.7) !important;
+}
+
+.nav-link {
+  color: #f4f6ff !important;
+  font-weight: bold;
+  font-size: 150%;
+  border: 0px solid #ff847c;
+  border-radius: 15px;
+}
+
+.navbar-toggler {
+  background: rgba(143, 181, 177, 0.7) !important;
+}
+
+.navbar-brand {
+  color: #fff !important;
+  font-weight: bold;
+  font-size: 150%;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.bkgrnd-img {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.Bible-txt{
+border-radius: 15px 50px;
+margin-top: 20px;
+text-align: center;
+background-image: url("https://media.giphy.com/media/G1T5M0qT6ZJlu/giphy.gif");
+color: rgba(255, 223, 0, 0.8) !important;
+line-height: 2px;
+}
+
+
+.logo-img {
+  width: 100%;
+  height: 50%;
+}
+
+h1 {
+  text-align: center;
+  padding: 5% 5%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+p {
+  text-align: center;
+  padding: 2% 2%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+.button{
+  border-radius: 15px;
+}
+
+/* medical section */
+.medical-image {
+  width: 110%;
+  height: 110%;
+  padding: 3%;
+  padding-right: 3%;
+
+}
+.medical-button{
+   text-align: center;
+}
+
+
+/* school section */
+.school-button{
+  text-align: center;
+}
