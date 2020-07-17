@@ -1,0 +1,196 @@
+body {
+  overflow-x: hidden;
+  background: rgba(115, 113, 108, 0.1);
+}
+
+.navbar {
+  background: rgba(115, 113, 108, 0.7) !important;
+}
+
+.other-button {
+  color: #f4f6ff !important;
+  font-weight: normal;
+  font-size: 150%;
+  border: 0px solid #ff847c;
+  border-radius: 15px;
+}
+
+.donate-button{
+  background:rgba(143, 181, 177, 0.8) !important;
+  border-radius: 15px;
+  font-weight: bold;
+  font-size: 150%;
+  font-family: 'Montserrat', sans-serif;
+  color:#fff !important;
+}
+
+ .other-button:hover{
+  border-bottom: 2px solid;
+}
+.donate-button:hover{
+  border: 2px solid;
+  border-color: #fff;
+}
+
+.navbar-toggler {
+  background: rgba(143, 181, 177, 0.7) !important;
+}
+
+.navbar-brand {
+  color: #fff !important;
+  font-weight: bold;
+  font-size: 150%;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.bkgrnd-img {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.Bible-txt{
+border-radius: 15px 50px;
+margin-top: 20px;
+text-align: center;
+background:linear-gradient( rgba(115, 113, 108, 0.6) 100%, rgba(115, 113, 108, 0.6)100% ),url("https://media.giphy.com/media/G1T5M0qT6ZJlu/giphy.gif");
+color: #fff !important;
+line-height: 2px;
+}
+
+
+.logo-img {
+  width: 100%;
+  height: 50%;
+}
+.logo-text{
+  font-family: cursive;
+  font-size: 30px;
+}
+
+h1 {
+  text-align: center;
+  padding: 5% 5%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+h2{
+  text-align: center;
+}
+hr{
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  /* to get rid of the default margin of hr tag */
+}
+.button{
+  border-radius: 15px;
+}
+
+/* medical section */
+
+.medical-school-text{
+  text-align: center;
+  padding: 2% 2%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+.medical-image {
+  width: 110%;
+  height: 110%;
+  padding: 3%;
+  padding-right: 10%;
+  border-radius: 50%;
+
+}
+.medical-button{
+   text-align: center;
+}
+
+
+/* school section */
+.school-button{
+  text-align: center;
+}
+.school-image{
+  width: 110%;
+  height: 110%;
+  padding: 3%;
+  padding-right: 10%;
+  border-radius: 50%;
+}
+
+/* Partners section */
+#Partners{
+  background: rgba(115, 113, 108, 0.1) !important;
+  padding-top: 15px;
+
+
+}
+
+.PTP, .AK{
+  margin-left: 20px;
+  border-radius: 50%;
+}
+.Partners{
+  font-family: "Montserrat",sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+}
+.Partners-heading{
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+
+
+
+
+/* <!-- Footer --> */
+#footer{
+  padding-bottom: 2px;
+  text-align: center;
+  background-color: #808080	;
+  color: #fff;
+  line-height: 30px;
+  -webkit-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.75); /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+ -moz-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.75);   /* Firefox 3.5 - 3.6 */
+  box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.75);    /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+
+}
+
+.social-icon{
+  width: 100%;
+  line-height: 20px;
+  margin-top: 40px;
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+.Copyright{
+  font-size: 18px;
+}
+
+
+.fa-facebook, .fa-instagram{
+  color: #fff !important;
+}
+
+.fa-facebook:hover{
+  color: rgba(66, 103, 178, 0.8) !important;
+}
+.fa-instagram:hover{
+  color: rgba(214, 36, 159, 0.8) !important;
+}
+.f{
+  margin-bottom: 10px;
+  margin-top: 2px;
+}
+.i{
+  margin-bottom: 10px;
+}
